@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuestionAnswer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_start">StartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="des1">耿耿</string>
+    <!--<string name="img1_url">https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1520177415399&di=0b3b8023f3cbfb58d37eb29661e5d125&imgtype=0&src=http%3A%2F%2Fn1.itc.cn%2Fimg8%2Fwb%2Frecom%2F2016%2F07%2F14%2F146850895523022400.JPEG</string>-->
+    <string name="des2">如此安静</string>
+    <!--<string name="img2_url">https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1520177628270&di=175040e6fb8c8d33fd55081973d2e458&imgtype=0&src=http%3A%2F%2Fimg.91ddcc.com%2F14722190686778.jpg</string>-->
+    <string name="des3">爱奇艺预告</string>
+    <!--<string name="img3_url">https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3619058471,2467655395&fm=27&gp=0.jpg</string>-->
+    <string name="des4">九寨沟</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <!--<string name="img4_url">https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3425571151,403367325&fm=11&gp=0.jpg</string>-->
+</resources>
